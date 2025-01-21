@@ -1,0 +1,1 @@
+This is a repo that contains branches of each of the examples and task i did while learning Rust Progamming language
