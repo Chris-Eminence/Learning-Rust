@@ -33,6 +33,7 @@ fn main() {
     }
 
     // Create instances of Option with some values
+    // The type of the value is inferred from the value itself
     let some_number = Some(5);
     let some_char = Some('e');
 
